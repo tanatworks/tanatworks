@@ -3,7 +3,7 @@
 ### About Me
 - **Education:** 4th-year Computer Science student @ Thammasat University
 
-## 🚀 Projects
+## Projects
 
 ### [Miley](LINK_HERE): Product Recommendation LINE Chatbot
 *Backend & DevOps Developer · Aug – Dec 2025*
